@@ -1,6 +1,6 @@
 # Different Approval Scenarios
 
-1. Custom Approval Requests
+#  1.Custom Approval Requests
    ## Key Features
 - **Custom Approval Responses**: Allows specific responses tailored to business needs (e.g., "Up to 5% Discount," "Denied").
 
