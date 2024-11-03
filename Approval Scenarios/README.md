@@ -29,4 +29,13 @@
   ![image](https://github.com/user-attachments/assets/a6eb6e91-c662-4d1b-8ab1-391f049c0e14)
 
 
+# 3.Microsoft Teams Approval Notifications
+## Key Features
+- **Automated Approval Requests:** Send approval requests to specified Teams channels, notifying relevant approvers.
+- **Teams-Based Interaction:** Approvers can approve or reject requests directly from within the Teams channel message.
+- **Card Integration:** Uses Adaptive Cards to display details and action buttons (Approve, Reject or any custom responses) in Teams.
+- - **Automated Notifications**: Notifies the requester with the final decision.
+  ![image](https://github.com/user-attachments/assets/a47df1cd-f458-4def-8412-d200ca97394f)
+
+![image](https://github.com/user-attachments/assets/42e347c9-4224-4d3d-b763-9e8c813bcac1)
 
