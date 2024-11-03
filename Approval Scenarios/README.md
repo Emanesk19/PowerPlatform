@@ -14,3 +14,19 @@
   3. **Approval Decision**: Based on the approver's response, sends an automated email notification to the requester.
 
      ![image](https://github.com/user-attachments/assets/c610ae04-7497-4f60-b8ed-e3321f5b9120)
+
+
+#  2.Multi-Approver Approval Flow
+## Key Features
+- **Flexible Response Handling**: Choose between "First to Respond" or "Everyone Must Approve."
+  ![image](https://github.com/user-attachments/assets/7b79767a-8512-44be-bfc1-bb7f75d4225f)
+
+- **Multiple Approvers**: Supports multiple emails in the "Assigned to" field (e.g., approver1@example.com; approver2@example.com).
+  ![image](https://github.com/user-attachments/assets/40783044-4ada-4fb3-adbc-2f153f5ab752)
+
+- **Automated Notifications**: Notifies the requester with the final decision.
+
+  ![image](https://github.com/user-attachments/assets/a6eb6e91-c662-4d1b-8ab1-391f049c0e14)
+
+
+
