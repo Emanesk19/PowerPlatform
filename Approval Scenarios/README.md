@@ -39,3 +39,18 @@
 
 ![image](https://github.com/user-attachments/assets/42e347c9-4224-4d3d-b763-9e8c813bcac1)
 
+# 4.Display Approval Request Date in User's Local Time Zone
+## Key Features
+- **Time Zone Conversion:** Automatically converts approval dates to the approver's local time.
+
+![image](https://github.com/user-attachments/assets/637f84bd-286c-413a-8310-81dfa3f63b8b)
+
+# 5.Reassign Approval Requests
+## Key Features
+ - Approvers can easily reassign approval tasks to someone else.
+
+![image](https://github.com/user-attachments/assets/f3b85b31-0d9b-4009-b112-f1e97616f7c0)
+
+
+
+
