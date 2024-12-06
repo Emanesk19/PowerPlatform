@@ -1,5 +1,5 @@
 # Office 365 License Count
-## 1. Using Graph Api
+## Using Graph Api
 ## Features
 - Retrieves Office 365 license details (total, used, and remaining) using Microsoft Graph API.
 - Sends a detailed email with the license summary in a styled table.
