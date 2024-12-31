@@ -35,6 +35,10 @@ The following tables will be created in Dataverse to support the organization:
      
      ![image](https://github.com/user-attachments/assets/390ce673-2c05-49a2-8b0c-8037b23d5893)
 
+## ⚖️ Business Rule
+  ✨ Enforce data validation rules across the application.
+    ![image](https://github.com/user-attachments/assets/127d87de-21f1-4a0d-a7bc-166edc3b55b2)
+
 ## 🎨 Canvas app 
 1. **Shelter Selection Page & Animal List**:  
    - 🐾 Dropdown to select a local shelter and displays animals ready for fostering at the selected shelter with their details and pictures.
